@@ -1,0 +1,33 @@
+{
+  "name": "localizaripjs",
+  "version": "1.0.0",
+  "description": "Para localizar la ip colocarla dentro de la variable ip",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ST-Alan/localizarIpJs.git"
+  },
+  "keywords": [
+    "localizar",
+    "ip",
+    "js",
+    "ip",
+    "ip",
+    "ubication",
+    "ip",
+    "info"
+  ],
+  "author": "Alan Fermin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ST-Alan/localizarIpJs/issues"
+  },
+  "homepage": "https://github.com/ST-Alan/localizarIpJs#readme",
+  "dependencies": {
+    "axios": "^1.6.5"
+  }
+}
